@@ -1,0 +1,17 @@
+Package: com.rpgfarm.a-font
+Version: 1.10.1
+Architecture: iphoneos-arm
+Maintainer: al7rbe
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.rpgfarm.a-font
+Filename: debs/debs/com.rpgfarm.a-font.deb
+Size: 122429719
+MD5sum: 2439d3f285b5f92c1d8ff22f14f262e7
+SHA1: a35465f193a98a54600a901284170d328a0e04b3
+SHA256: 63f405908e93e323e05a65938e3514b318d46c62efa7865770d06bd41ca99f7a
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Depiction: https://omaralharbi2009.github.io/al7rbe/
+Name: A-Font معربة
