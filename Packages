@@ -29,7 +29,7 @@ SHA1: a29bc35a73812664a1ff5101a18e4c74c66e21e4
 SHA256: 35811594cd9114210a68a4691ca9e960b010e78aec9023323237a7637b7effbc
 Section: Tweaks
 Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-17
 Author: CokePokes
 Depiction: https://omaralharbi2009.github.io/al7rbe/
 Name: SnowBoard.v2
