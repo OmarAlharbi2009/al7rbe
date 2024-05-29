@@ -11,7 +11,7 @@ SHA1: a35465f193a98a54600a901284170d328a0e04b3
 SHA256: 63f405908e93e323e05a65938e3514b318d46c62efa7865770d06bd41ca99f7a
 Section: Tweaks
 Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-17
 Author: CokePokes
 Depiction: https://omaralharbi2009.github.io/al7rbe/
 Name: A-Font معربة
