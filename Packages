@@ -2,7 +2,7 @@ Package: com.rpgfarm.a-font
 Version: 1.10.1
 Architecture: iphoneos-arm
 Maintainer: al7rbe
-Depends: firmware (>= 12.0), mobilesubstrate
+Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.rpgfarm.a-font
 Filename: debs/debs/com.rpgfarm.a-font.deb
 Size: 122429719
@@ -20,7 +20,7 @@ Package: com.spark.snowboard
 Version: 1.5.26-Beta4
 Architecture: al7rbe
 Maintainer: al7rbe
-Depends: firmware (>= 12.0), mobilesubstrate
+Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: https://omaralharbi2009.github.io/al7rbe/
 Filename: debs/1.5.26-Beta4-rootless.deb
 Size: 1120268
@@ -38,16 +38,16 @@ Package: com.al7rbe.offa
 Version: 0.1-beta1
 Architecture: al7rbe
 Maintainer: al7rbe
-Depends: firmware (>= 12.0), mobilesubstrate
+Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: https://omaralharbi2009.github.io/al7rbe/
 Filename: debs/snapchat.MOV_v0.deb
 Size: 132064
 MD5sum: b469484eaa91ab1dabb842db3646822e
 SHA1: 0ea10f5ab840d0f90a64cf4afd32500b9ae73357
 SHA256: 107af0884047a7b55911fe4f3e7a0e3c0fae467db1a1154416e868bbac3fa341
-Section: Tweaks
-Priority: optional
+Section: al7rbe
+Priority: al7rbe
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 12-17
-Author: CokePokes
+Author: al7rbe
 Depiction: https://media.discordapp.net/attachments/995222906265145374/1246164737608253612/25_20240531211326.png?ex=665b64da&is=665a135a&hm=235153f632e326feb43c0addd12e7e236d73d9363232a5900d44eb3bbcabc361&=&format=webp&quality=lossless&width=563&height=498
 Name: snapchat offa
